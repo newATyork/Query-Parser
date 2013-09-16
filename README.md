@@ -1,0 +1,1 @@
+Based on Variable-Byte Compressed inverted index, implemented Document-At-A-Time Query Processing in BM25 and Conjunctive Semantics to get TOP10 Ranked Pages in a data set of more than 800,000 pages and 1100,000 term words, using D-Gap and Chunk-wise techniques, in C/C++.
